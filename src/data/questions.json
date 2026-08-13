@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "id": "q1",
+      "trait": "they listen to tiktok edit music unironically",
+      "answers": [
+        {
+          "memberName": "Anusha Patel",
+          "rating": 6
+        },
+        {
+          "memberName": "Vyshnav Vijish",
+          "rating": 3
+        },
+        {
+          "memberName": "Ryan Edward",
+          "rating": 8
+        },
+        {
+          "memberName": "Mayo Akinyede",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "trait": "they talk to AI like it’s their therapist",
+      "answers": [
+        {
+          "memberName": "Anusha Patel",
+          "rating": 2
+        },
+        {
+          "memberName": "Vyshnav Vijish",
+          "rating": 4
+        },
+        {
+          "memberName": "Ryan Edward",
+          "rating": 1
+        },
+        {
+          "memberName": "Mayo Akinyede",
+          "rating": 3
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "trait": "they poop in public",
+      "answers": [
+        {
+          "memberName": "Anusha Patel",
+          "rating": 4
+        },
+        {
+          "memberName": "Vyshnav Vijish",
+          "rating": 2
+        },
+        {
+          "memberName": "Ryan Edward",
+          "rating": 5
+        },
+        {
+          "memberName": "Mayo Akinyede",
+          "rating": 1
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "trait": "they only listen to music from the 2000s",
+      "answers": [
+        {
+          "memberName": "Anusha Patel",
+          "rating": 9
+        },
+        {
+          "memberName": "Vyshnav Vijish",
+          "rating": 7
+        },
+        {
+          "memberName": "Ryan Edward",
+          "rating": 8
+        },
+        {
+          "memberName": "Mayo Akinyede",
+          "rating": 6
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "trait": "they kick the tobors ",
+      "answers": [
+        {
+          "memberName": "Anusha Patel",
+          "rating": 2
+        },
+        {
+          "memberName": "Vyshnav Vijish",
+          "rating": 1
+        },
+        {
+          "memberName": "Ryan Edward",
+          "rating": 4
+        },
+        {
+          "memberName": "Mayo Akinyede",
+          "rating": 3
+        }
+      ]
+    }
+  ]
+}

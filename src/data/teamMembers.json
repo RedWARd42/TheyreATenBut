@@ -1,0 +1,20 @@
+{
+  "teamMembers": [
+    {
+      "name": "Anusha Patel",
+      "image": "/raters/Anusha-Patel.webp"
+    },
+    {
+      "name": "Vyshnav Vijish",
+      "image": "/raters/Vyshnav-Vijish.webp"
+    },
+    {
+      "name": "Ryan Edward",
+      "image": "/raters/Ryan-Edward.webp"
+    },
+    {
+      "name": "Mayo Akinyede",
+      "image": "/raters/Mayowa-Akinyede.webp"
+    }
+  ]
+}
