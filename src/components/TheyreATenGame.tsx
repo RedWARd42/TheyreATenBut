@@ -1,7 +1,8 @@
-import { useCallback, useMemo, useState } from "react";
+import { useCallback, useEffect, useMemo, useState } from "react";
 
 import questionsData from "../data/questions.json";
 import teamMembersData from "../data/teamMembers.json";
+import confetti from "canvas-confetti";
 
 import type {
   GameRound,
@@ -489,6 +490,16 @@ function FeedbackScreen({
       ? "text-warning"
       : "text-error";
 
+  useEffect(() => {
+    if (exact) {
+      confetti({
+        particleCount: 100,
+        spread: 70,
+        origin: { y: 0.6 },
+      });
+    }
+  }, [exact]);
+  
   return (
     <div className="card w-full mx-auto max-w-2xl bg-base-100 shadow-2xl">
 
