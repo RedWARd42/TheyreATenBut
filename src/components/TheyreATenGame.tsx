@@ -555,7 +555,7 @@ function FeedbackScreen({
 
         </div>
 
-        <div className="flex flex-col sm:flex-row gap-3 w-full mt-8">
+        <div className="flex gap-3 w-full mt-8">
 
           <button
             className="btn btn-neutral flex-1"
