@@ -2,112 +2,162 @@
   "questions": [
     {
       "id": "q1",
-      "trait": "they listen to tiktok edit music unironically",
+      "trait": "they talk to AI like it’s their therapist",
       "answers": [
-        {
-          "memberName": "Anusha Patel",
-          "rating": 6
-        },
-        {
-          "memberName": "Vyshnav Vijish",
-          "rating": 3
-        },
-        {
-          "memberName": "Ryan Edward",
-          "rating": 8
-        },
-        {
-          "memberName": "Mayo Akinyede",
-          "rating": 5
-        }
+        { "memberName": "Ryan", "rating": 1 },
+        { "memberName": "Anusha", "rating": 6 },
+        { "memberName": "Anvi", "rating": 5 },
+        { "memberName": "Nandy", "rating": 9 }
       ]
     },
     {
       "id": "q2",
-      "trait": "they talk to AI like it’s their therapist",
+      "trait": "they don’t know who King Lebron is",
       "answers": [
-        {
-          "memberName": "Anusha Patel",
-          "rating": 2
-        },
-        {
-          "memberName": "Vyshnav Vijish",
-          "rating": 4
-        },
-        {
-          "memberName": "Ryan Edward",
-          "rating": 1
-        },
-        {
-          "memberName": "Mayo Akinyede",
-          "rating": 3
-        }
+        { "memberName": "Ryan", "rating": 7 },
+        { "memberName": "Anusha", "rating": 9 },
+        { "memberName": "Anvi", "rating": 1 },
+        { "memberName": "Nandy", "rating": 1 }
       ]
     },
     {
       "id": "q3",
-      "trait": "they poop in public",
+      "trait": "they can’t do the brazilian dance",
       "answers": [
-        {
-          "memberName": "Anusha Patel",
-          "rating": 4
-        },
-        {
-          "memberName": "Vyshnav Vijish",
-          "rating": 2
-        },
-        {
-          "memberName": "Ryan Edward",
-          "rating": 5
-        },
-        {
-          "memberName": "Mayo Akinyede",
-          "rating": 1
-        }
+        { "memberName": "Ryan", "rating": 6 },
+        { "memberName": "Anusha", "rating": 8 },
+        { "memberName": "Anvi", "rating": 10 },
+        { "memberName": "Nandy", "rating": 3 }
       ]
     },
     {
       "id": "q4",
-      "trait": "they only listen to music from the 2000s",
+      "trait": "they like jake paul",
       "answers": [
-        {
-          "memberName": "Anusha Patel",
-          "rating": 9
-        },
-        {
-          "memberName": "Vyshnav Vijish",
-          "rating": 7
-        },
-        {
-          "memberName": "Ryan Edward",
-          "rating": 8
-        },
-        {
-          "memberName": "Mayo Akinyede",
-          "rating": 6
-        }
+        { "memberName": "Ryan", "rating": 3 },
+        { "memberName": "Anusha", "rating": 5 },
+        { "memberName": "Anvi", "rating": 2 },
+        { "memberName": "Nandy", "rating": 1 }
       ]
     },
     {
       "id": "q5",
-      "trait": "they kick the tobors ",
+      "trait": "they’re attracted to temoc",
       "answers": [
-        {
-          "memberName": "Anusha Patel",
-          "rating": 2
-        },
-        {
-          "memberName": "Vyshnav Vijish",
-          "rating": 1
-        },
-        {
-          "memberName": "Ryan Edward",
-          "rating": 4
-        },
-        {
-          "memberName": "Mayo Akinyede",
-          "rating": 3
-        }
+        { "memberName": "Ryan", "rating": 10 },
+        { "memberName": "Anusha", "rating": 3 },
+        { "memberName": "Anvi", "rating": 7 },
+        { "memberName": "Nandy", "rating": 10 }
+      ]
+    },
+    {
+      "id": "q6",
+      "trait": "they kick the tobors",
+      "answers": [
+        { "memberName": "Ryan", "rating": 2 },
+        { "memberName": "Anusha", "rating": 5 },
+        { "memberName": "Anvi", "rating": 1 },
+        { "memberName": "Nandy", "rating": 1 }
+      ]
+    },
+    {
+      "id": "q7",
+      "trait": "they are in ACM",
+      "answers": [
+        { "memberName": "Ryan", "rating": 10 },
+        { "memberName": "Anusha", "rating": 10 },
+        { "memberName": "Anvi", "rating": 10 },
+        { "memberName": "Nandy", "rating": 10 }
+      ]
+    },
+    {
+      "id": "q8",
+      "trait": "they drive a scooter around campus",
+      "answers": [
+        { "memberName": "Ryan", "rating": 5 },
+        { "memberName": "Anusha", "rating": 6 },
+        { "memberName": "Anvi", "rating": 1 },
+        { "memberName": "Nandy", "rating": 1 }
+      ]
+    },
+    {
+      "id": "q9",
+      "trait": "they’re an art and humanities major",
+      "answers": [
+        { "memberName": "Ryan", "rating": 9 },
+        { "memberName": "Anusha", "rating": 8 },
+        { "memberName": "Anvi", "rating": 6 },
+        { "memberName": "Nandy", "rating": 5 }
+      ]
+    },
+    {
+      "id": "q10",
+      "trait": "they go to halloweekend (with people) but don’t invite you",
+      "answers": [
+        { "memberName": "Ryan", "rating": 4 },
+        { "memberName": "Anusha", "rating": 1 },
+        { "memberName": "Anvi", "rating": 1 },
+        { "memberName": "Nandy", "rating": 3 }
+      ]
+    },
+    {
+      "id": "q11",
+      "trait": "they never got an internship",
+      "answers": [
+        { "memberName": "Ryan", "rating": 10 },
+        { "memberName": "Anusha", "rating": 5 },
+        { "memberName": "Anvi", "rating": 3 },
+        { "memberName": "Nandy", "rating": 9 }
+      ]
+    },
+    {
+      "id": "q12",
+      "trait": "they got a C- in a class and then switched to JSOM",
+      "answers": [
+        { "memberName": "Ryan", "rating": 10 },
+        { "memberName": "Anusha", "rating": 4 },
+        { "memberName": "Anvi", "rating": 1 },
+        { "memberName": "Nandy", "rating": 2 }
+      ]
+    },
+    {
+      "id": "q13",
+      "trait": "they can’t handle spicy food",
+      "answers": [
+        { "memberName": "Ryan", "rating": 10 },
+        { "memberName": "Anusha", "rating": 10 },
+        { "memberName": "Anvi", "rating": 10 },
+        { "memberName": "Nandy", "rating": 9 }
+      ]
+    },
+    {
+      "id": "q14",
+      "trait": "they poop in public",
+      "answers": [
+        { "memberName": "Ryan", "rating": 10 },
+        { "memberName": "Anusha", "rating": 9 },
+        { "memberName": "Anvi", "rating": 1 },
+        { "memberName": "Nandy", "rating": 10 }
+      ]
+    },
+    {
+      "id": "q15",
+      "trait": "they don’t have a license",
+      "answers": [
+        { "memberName": "Ryan", "rating": 8 },
+        { "memberName": "Anusha", "rating": 7 },
+        { "memberName": "Anvi", "rating": 1 },
+        { "memberName": "Nandy", "rating": 10 }
+      ]
+    },
+    {
+      "id": "q16",
+      "trait": "they read “spicy” romance",
+      "answers": [
+        { "memberName": "Ryan", "rating": 1 },
+        { "memberName": "Anusha", "rating": 7 },
+        { "memberName": "Anvi", "rating": 2 },
+        { "memberName": "Nandy", "rating": 4 }
       ]
     }
   ]
