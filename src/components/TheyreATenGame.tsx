@@ -3,6 +3,7 @@ import { useCallback, useEffect, useMemo, useState } from "react";
 import questionsData from "../data/questions.json";
 import teamMembersData from "../data/teamMembers.json";
 import confetti from "canvas-confetti";
+import { playSound } from "react-sounds";
 
 import type {
   GameRound,
@@ -492,11 +493,15 @@ function FeedbackScreen({
 
   useEffect(() => {
     if (exact) {
+      playSound("game/coin");
+
       confetti({
         particleCount: 100,
         spread: 70,
         origin: { y: 0.6 },
       });
+    } else {
+      playSound("game/portal_closing");
     }
   }, [exact]);
   
@@ -626,11 +631,13 @@ export default function TheyreATenGame() {
   }, [drawRound]);
 
   const handleStart = () => {
+    playSound("game/portal_opening");
     startRound();
     setScreen("question");
   };
 
   const handleSubmit = () => {
+    playSound("game/hit");
     setScreen("feedback");
   };
 
