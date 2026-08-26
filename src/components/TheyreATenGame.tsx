@@ -631,7 +631,7 @@ export default function TheyreATenGame() {
   }, [drawRound]);
 
   const handleStart = () => {
-    playSound("game/portal_opening");
+    playSound("arcade/level_up");
     startRound();
     setScreen("question");
   };
@@ -643,12 +643,14 @@ export default function TheyreATenGame() {
 
   const handleNext = () => {
     startRound();
+    playSound("game/hit");
     setScreen("question");
   };
 
   const handleReset = () => {
     resetBags();
     setRound(null);
+    playSound("game/hit");
     setGuess(5);
     setScreen("start");
   };
